@@ -11,17 +11,13 @@ Step 2: Right-click on the project name and select New->RESTful Web Services fro
 
 ![image](https://github.com/kannan0071/Ex-04_RESTful_Web_Services/assets/119641638/99f32ea8-f53c-46db-888f-afca546a023c)
 
-
-
 Step 3: A new window will appear. Select “Simple Root Resource” and click Next.
  
  ![image](https://github.com/kannan0071/Ex-04_RESTful_Web_Services/assets/119641638/15d066b5-9bac-42d7-b595-767cbb08774f)
 
-
 Step 4: In the next window, give a Resource Package name and choose MIME Type as “text/html”. Click Finish.
 
 ![image](https://github.com/kannan0071/Ex-04_RESTful_Web_Services/assets/119641638/23d20718-7a45-401a-ad26-5577d10f1b9a)
-
 
 Step 5: Two editing tabs will appear. Close “ApplicationConfig.java”. You need to write all your required functionalities in GenericResource.java.
 
@@ -34,9 +30,7 @@ Step 7: Save your project, clean and build it. Deploy your project.
 Step 8: To test your web service, open a new browser window/tab and type the URL as http://localhost:8080/project_name/webresources/generic?params=45&params=35 and hit enter. (This is the easiest way of testing the web service when it makes use of List).
 
 
-
 Client-Side:
-
 
 Step 1: Create a new Java Web Project. Follow steps 1-5 as in section 1.1.
 
